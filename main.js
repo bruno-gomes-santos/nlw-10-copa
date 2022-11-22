@@ -117,4 +117,10 @@ document.querySelector("#cards").innerHTML =
       createGame(`ghana`, `12:00`, `uruguay`) +
       createGame(`serbia`, `16:00`, `switzerland`) +
       createGame(`cameroon`, `16:00`, `brazil`)
+  ) +
+  createCard(
+    "03/12",
+    "sabádo",
+    "Oitavas de Final",
+    createGame(`1º A`, `12:00`, `2º B`) + createGame(`1º C`, `16:00`, `2º D`)
   )
