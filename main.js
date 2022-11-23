@@ -43,7 +43,7 @@ document.querySelector("#cards").innerHTML =
     "quarta",
     createGame(`morocco`, `0 x 0`, `croatia`) +
       createGame(`germany`, `1 x 2`, `japan`) +
-      createGame(`spain`, `4 x 0`, `costa rica`) +
+      createGame(`spain`, `5 x 0`, `costa rica`) +
       createGame(`belgium`, `16:00`, `canada`)
   ) +
   createCard(
