@@ -52,12 +52,12 @@ document.querySelector("#cards").innerHTML =
     createGame(`switzerland`, `1 x 0`, `cameroon`) +
       createGame(`uruguay`, `0 x 0`, `south korea`) +
       createGame(`portugal`, `3 x 2`, `ghana`) +
-      createGame(`brazil`, `16:00`, `serbia`)
+      createGame(`brazil`, `2 x 0`, `serbia`)
   ) +
   createCard(
     "25/11",
     "sexta",
-    createGame(`wales`, `07:00`, `iran`) +
+    createGame(`wales`, `0 x 0`, `iran`) +
       createGame(`qatar`, `10:00`, `senegal`) +
       createGame(`netherlands`, `13:00`, `ecuador`) +
       createGame(`england`, `16:00`, `united states`)
