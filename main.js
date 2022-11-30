@@ -122,12 +122,12 @@ document.querySelector("#cards").innerHTML =
     "03/12",
     "sabádo",
     createGame(`netherlands`, `12:00`, `united states`) +
-      createGame(`1º C`, `16:00`, `australia`)
+      createGame(`poland`, `16:00`, `australia`)
   ) +
   createCard(
     "04/12",
     "domingo",
-    createGame(`france`, `12:00`, `2º C`) +
+    createGame(`france`, `12:00`, `argentina`) +
       createGame(`england`, `16:00`, `senegal`)
   ) +
   createCard(
