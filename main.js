@@ -97,8 +97,8 @@ document.querySelector("#cards").innerHTML =
   createCard(
     "30/11",
     "quarta",
-    createGame(`tunisia`, `12:00`, `france`) +
-      createGame(`australia`, `12:00`, `denmark`) +
+    createGame(`tunisia`, `1 x 0`, `france`) +
+      createGame(`australia`, `1 x 0`, `denmark`) +
       createGame(`poland`, `16:00`, `argentina`) +
       createGame(`saudi arabia`, `16:00`, `mexico`)
   ) +
@@ -122,12 +122,12 @@ document.querySelector("#cards").innerHTML =
     "03/12",
     "sabádo",
     createGame(`netherlands`, `12:00`, `united states`) +
-      createGame(`1º C`, `16:00`, `2º D`)
+      createGame(`1º C`, `16:00`, `australia`)
   ) +
   createCard(
     "04/12",
     "domingo",
-    createGame(`1º D`, `12:00`, `2º C`) +
+    createGame(`france`, `12:00`, `2º C`) +
       createGame(`england`, `16:00`, `senegal`)
   ) +
   createCard(
