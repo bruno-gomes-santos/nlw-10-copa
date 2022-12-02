@@ -140,5 +140,5 @@ document.querySelector("#cards").innerHTML =
     "06/12",
     "terça",
     createGame(`morocco`, `12:00`, `spain`) +
-      createGame(`1º H`, `16:00`, `2º G`)
+      createGame(`portugal`, `16:00`, `2º G`)
   )
