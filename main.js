@@ -133,7 +133,7 @@ document.querySelector("#cards").innerHTML =
   createCard(
     "05/12",
     "segunda",
-    createGame(`japan`, `12:00`, `croatia`) +
+    createGame(`japan`, `1 x 1 <br/> 1 x 3 `, `croatia`) +
       createGame(`brazil`, `16:00`, `south korea`)
   ) +
   createCard(
@@ -145,7 +145,7 @@ document.querySelector("#cards").innerHTML =
   createCard(
     "09/12",
     "sexta",
-    createGame(`japan / croatia`, `12:00`, `brazil / south korea`) +
+    createGame(`croatia`, `12:00`, `brazil / south korea`) +
       createGame(`netherlands`, `16:00`, `argentina`)
   ) +
   createCard(
