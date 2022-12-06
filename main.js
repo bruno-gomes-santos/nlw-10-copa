@@ -139,7 +139,7 @@ document.querySelector("#cards").innerHTML =
   createCard(
     "06/12",
     "terça",
-    createGame(`morocco`, `0 x 0 <br/> `, `spain`) +
+    createGame(`morocco`, `0 x 0 <br/> 3 x 0`, `spain`) +
       createGame(`portugal`, `16:00`, `switzerland`)
   ) +
   createCard(
